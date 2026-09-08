@@ -235,6 +235,16 @@ Tesseract is an external OCR application and is **not installed automatically by
 
 It must be installed separately.
 
+The official Tesseract installation documentation recommends the UB Mannheim Windows builds for Windows users.
+
+Tesseract Installation Documentation:
+https://tesseract-ocr.github.io/tessdoc/Installation.html
+
+Windows Installer (UB Mannheim):
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Download the appropriate Windows installer and run it.
+
 ## Windows Installation
 
 ### Step 1 — Install Tesseract
