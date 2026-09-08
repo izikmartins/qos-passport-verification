@@ -1,0 +1,6 @@
+git+https://github.com/sivakumar-mahalingam/fastmrz.git@bb1d4ee38eb1eaa88cd80e1eba88bacc1842cd76
+numpy==2.4.6
+opencv-python-headless==5.0.0.93
+packaging==26.3
+pillow==12.3.0
+pytesseract==0.3.13
