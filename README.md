@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # QOS Passport Verification
 
 Passport MRZ extraction prototype developed for the QOSPAY identity verification workflow.
